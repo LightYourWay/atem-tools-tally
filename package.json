@@ -1,6 +1,6 @@
 {
   "name": "atem-tools-tally",
-  "version": "1.0.1",
+  "version": "1.0.21",
   "description": "A quick example of the atem-tools npm module configured for use as tally light controller.",
   "main": "main.js",
   "scripts": {
@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/LightYourWay/atem-tools-tally#readme",
   "dependencies": {
-    "atem-tools": "^1.0.1"
+    "atem-tools": "^1.0.21"
   },
   "devDependencies": {
     "typescript": "^4.0.3"
