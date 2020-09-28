@@ -1,0 +1,37 @@
+{
+  "name": "atem-tools-tally",
+  "version": "1.0.1",
+  "description": "A quick example of the atem-tools npm module configured for use as tally light controller.",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx tsc && node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightYourWay/atem-tools.git"
+  },
+  "keywords": [
+    "atem",
+    "tally",
+    "overlay",
+    "OBS",
+    "open",
+    "source",
+    "broadcast",
+    "live",
+    "production",
+    "tools"
+  ],
+  "author": "Lukas Runge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LightYourWay/atem-tools-tally/issues"
+  },
+  "homepage": "https://github.com/LightYourWay/atem-tools-tally#readme",
+  "dependencies": {
+    "atem-tools": "^1.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
